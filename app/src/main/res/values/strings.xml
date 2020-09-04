@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">CrazySnakes</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="email_gmail_com">email@gmail.com</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="register">REGISTER</string>
+    <string name="i_agree_with_terms_and_conditions">I agree with terms and conditions</string>
+    <string name="textview">TextView</string>
+    <string name="crazy_snakes">Crazy Snakes</string>
+    <string name="login">Login</string>
+    <string name="i_don_t_have_account_i_want_to_register">I don\'t have account. I want to register</string>
 </resources>
